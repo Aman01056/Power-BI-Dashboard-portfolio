@@ -10,7 +10,7 @@ Here you'll find a collection of interactive dashboards created using **Power BI
 
 ## 🔗 Projects Included
 
-### 1. 🛍️ [Ecommerce Sales Dashboard](https://github.com/Aman01056/ecommerce-dashboard)
+### 1. 🛍️ [E-COMMERCE-SALES-DASHBOARD](https://github.com/Aman01056/E-COMMERCE-SALES-DASHBOARD)
 Analyze ecommerce sales performance, top products, and profit trends.
 
 ### 2. 📈 [Sales Dashboard](https://github.com/Aman01056/sales-dashboard-powerbi)
