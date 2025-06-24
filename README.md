@@ -22,7 +22,8 @@ Explore employee stats like department-wise distribution, gender ratio, and hiri
 ### 4. 🧑‍💼 [HR Attrition Dashboard](https://github.com/Aman01056/HR-Analytics-Dashboard)
 Understand employee attrition by job role, department, education, and satisfaction.
 
----
+### 5. 🛒 [Superstore Sales Dashboard](https://github.com/Aman01056/Super-Store-Sales-Dashboard)
+Analyze sales, profit, and quantity trends across regions, categories, and customer segments in a retail superstore.
 
 ## 📎 Tools Used
 - Power BI (DAX, Visualizations, KPIs)
