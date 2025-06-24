@@ -10,13 +10,13 @@ Here you'll find a collection of interactive dashboards created using **Power BI
 
 ## 🔗 Projects Included
 
-### 1. 🛍️ [E-COMMERCE-SALES-DASHBOARD](https://github.com/Aman01056/E-COMMERCE-SALES-DASHBOARD)
+### 1. 🛍️ [E-Commerce_Sales_Dashboard](https://github.com/Aman01056/E-COMMERCE-SALES-DASHBOARD)
 Analyze ecommerce sales performance, top products, and profit trends.
 
 ### 2. 📈 [Sales Dashboard](https://github.com/Aman01056/SALES_DASHBOARD)
 Visualize sales KPIs like profit, discounts, customer trends, and more.
 
-### 3. 👥 [Employee Dashboard](https://github.com/Aman01056/employee-dashboard-powerbi)
+### 3. 👥 [Employee Report Dashboard](https://github.com/Aman01056/Employee_Report_Dashboard))
 Explore employee stats like department-wise distribution, gender ratio, and hiring trends.
 
 ### 4. 🧑‍💼 [HR Attrition Dashboard](https://github.com/Aman01056/hr-attrition-analysis)
