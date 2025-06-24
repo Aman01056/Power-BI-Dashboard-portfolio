@@ -19,7 +19,7 @@ Visualize sales KPIs like profit, discounts, customer trends, and more.
 ### 3. 👥 [Employee Report Dashboard](https://github.com/Aman01056/Employee_Report_Dashboard))
 Explore employee stats like department-wise distribution, gender ratio, and hiring trends.
 
-### 4. 🧑‍💼 [HR Attrition Dashboard](https://github.com/Aman01056/hr-attrition-analysis)
+### 4. 🧑‍💼 [HR Attrition Dashboard](https://github.com/Aman01056/HR-Analytics-Dashboard)
 Understand employee attrition by job role, department, education, and satisfaction.
 
 ---
