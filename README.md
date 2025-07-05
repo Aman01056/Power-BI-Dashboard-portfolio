@@ -25,6 +25,13 @@ Understand employee attrition by job role, department, education, and satisfacti
 ### 5. 🛒 [Superstore Sales Dashboard](https://github.com/Aman01056/Super-Store-Sales-Dashboard)
 Analyze sales, profit, and quantity trends across regions, categories, and customer segments in a retail superstore.
 
+### 🛒 6. [Amazon Sales Dashboard]https://github.com/Aman01056/Amazon-Sales-Dashboard-in-Power-BI
+Tracks product-wise and region-wise sales performance, quantity sold, and profit trends.
+
+### 📞 7. [Call Center Performance Dashboard]https://github.com/Aman01056/Call-Center-dashboard-in-Power-BI
+ Monitors call handling performance across agents, departments, and time.
+- **Key Features**:
+
 ## 📎 Tools Used
 - Power BI (DAX, Visualizations, KPIs)
 - Excel (Data Source)
