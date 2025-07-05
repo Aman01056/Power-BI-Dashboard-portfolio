@@ -45,3 +45,70 @@ Analyze sales, profit, and quantity trends across regions, categories, and custo
 - 🧠 [GitHub Profile](https://github.com/Aman01056)
 
 ---
+# 📊 Power BI Dashboard Portfolio – Aman Shakya
+
+Welcome to my personal collection of interactive Power BI dashboards. Each project visualizes real-world business scenarios to deliver actionable insights using data storytelling and dynamic visuals.
+
+---
+
+## 🔗 Dashboards List
+
+1. 🧾 [E-Commerce_Sales_Dashboard](#)
+   Analyze ecommerce sales performance, top products, and profit trends.
+
+2. 📈 [Sales Dashboard](#)
+   Visualize sales KPIs like profit, discounts, customer trends, and more.
+
+3. 🧑‍🤝‍🧑 [Employee Report Dashboard](#)
+   Explore employee stats like department-wise distribution, gender ratio, and hiring trends.
+
+4. 🧑‍💼 [HR Attrition Dashboard](#)
+   Understand employee attrition by job role, department, education, and satisfaction.
+
+5. 🛒 [Superstore Sales Dashboard](#)
+   Analyze sales, profit, and quantity trends across regions, categories, and customer segments in a retail superstore.
+
+6. 📞 [Call Center Dashboard](./Call%20Center%20Dashboard.pbix)
+   Monitor call volume, agent performance, average handling time (AHT), and resolution metrics.
+
+7. 🛍️ [Amazon Sales Dashboard](./amazon%20dashboard.pbix)
+   Track sales, profit, product-wise quantity sold, and regional trends in Amazon sales data.
+
+---
+
+## 🧠 Tools Used
+
+- Microsoft Power BI
+- DAX (Data Analysis Expressions)
+- Excel/CSV data sources
+- Data Modeling & Relationships
+- Slicers, KPI Cards, Charts & Tooltips
+
+---
+
+## 📸 Screenshot Previews
+
+> Place screenshots in a folder like `/images` and reference them like:
+>
+> `![Amazon Dashboard](./images/amazon-dashboard.png)`
+
+---
+
+## 👤 About Me
+
+**Aman Shakya**  
+Aspiring Data Analyst | Power BI | SQL | Excel | Python  
+🔗 [LinkedIn](https://www.linkedin.com/in/aman-shakya-b3b3292bb)  
+🧑‍💻 [GitHub](https://github.com/Aman01056)
+
+---
+
+## ⭐ Support
+
+If you found this useful:
+- Give the repo a ⭐
+- Fork and explore the PBIX files
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/aman-shakya-b3b3292bb)
+
+> 💬 Feedback & collaboration are welcome!
+
