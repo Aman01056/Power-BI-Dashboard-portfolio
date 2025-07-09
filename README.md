@@ -26,12 +26,14 @@ Understand employee attrition by job role, department, education, and satisfacti
 Analyze sales, profit, and quantity trends across regions, categories, and customer segments in a retail superstore.
 
 ### 6. 📞 [Call Center Dashboard](https://github.com/Aman01056/Call-Center-dashboard-in-Power-BI)
-
    Monitor call volume, agent performance, average handling time (AHT), and resolution metrics.
 
 ### 7. 🛍️ [Amazon Sales Dashboard](https://github.com/Aman01056/Amazon-Sales-Dashboard-in-Power-BI)
-
    Track sales, profit, product-wise quantity sold, and regional trends in Amazon sales data.
+
+### 8. 🍕 [Pizza Sales Dashboard](https://github.com/Aman01056/Pizza-Sales-Dashboard-In-Power-Bi)  
+Analyze pizza sales performance with interactive visuals for total revenue, orders, average order value, and category-wise trends.
+
 
 ## 📎 Tools Used
 - Microsoft Power BI
